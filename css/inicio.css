@@ -2,12 +2,14 @@
 nav.navbar {
   background-color: rgb(255, 0, 54);
   margin-top: 4%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 #logo{
     width: 450px;
     color: white;
     margin: -50px 44%;
+    margin-top: -4%;
+
    
 
 }
@@ -24,9 +26,8 @@ body{
  
   }
 
-
   #separador {
-    width: 60%;
+    width: 50%;
     margin-left: 3%;
     margin-top: 35%;
 
@@ -47,7 +48,8 @@ body{
 }
 
 #carta{
-    margin-top: 2%;
+    margin-top: 1%;
+
 }
 
 .fond{position:absolute;padding-top:85px;top:0;left:0; right:0;bottom:0;
@@ -57,7 +59,7 @@ body{
    {
        display:inline-block;
        border:0;
-       width:410px;
+       width:350px;
        height:255px;
        position: relative;
        -webkit-transition: all 200ms ease-in;
@@ -90,30 +92,30 @@ body{
 }
 .colorle{
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 }
 #discord{
   margin-left: 70%;
-  margin-top: -85%;
+  margin-top: -145%;
 
 }
 #bndiscord{
-  height: 100px;
-  width: 67.5%;
-  font-size:35px;
+  height: 50px;
+  width: 79%;
+  font-size:20px;
 
 }
 #letrapag{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size:30px;
+  font-size:20px;
 }
 #letralogo{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #page{
-  margin-top: 60%;
-  margin-left: 24%;
-  font-size: 20px ;
+  margin-top: 104%;
+  margin-left: 11.5%;
+  font-size: 15px ;
 
   
 }
